@@ -1,0 +1,2327 @@
+[
+  {
+    "ID": 1,
+    "localName": "Abalé",
+    "latinName": "Combretodendron macrocarpum"
+  },
+  {
+    "ID": 2,
+    "localName": "Aboké",
+    "latinName": "Massularia acuminata"
+  },
+  {
+    "ID": 3,
+    "localName": "Aboudikro",
+    "latinName": "Entandrophragma cylindricum"
+  },
+  {
+    "ID": 4,
+    "localName": "Abrahassa",
+    "latinName": "Ochtocosmus africanus"
+  },
+  {
+    "ID": 5,
+    "localName": "Acagnibaka",
+    "latinName": "Olax subscorpioidea"
+  },
+  {
+    "ID": 6,
+    "localName": "Acajou d’Afrique",
+    "latinName": "Khaya sp. pl."
+  },
+  {
+    "ID": 7,
+    "localName": "Acajou de Bassam",
+    "latinName": "Khaya ivorensis"
+  },
+  {
+    "ID": 8,
+    "localName": "Acajou blanc",
+    "latinName": "Khaya anthotheca"
+  },
+  {
+    "ID": 9,
+    "localName": "Acajou cailcedrat",
+    "latinName": "Khaya senegalensis"
+  },
+  {
+    "ID": 10,
+    "localName": "Acajou à grandes feuilles",
+    "latinName": "Khaya grandifoliola"
+  },
+  {
+    "ID": 11,
+    "localName": "Adaschia Adiépingoa",
+    "latinName": "Trema orientalis"
+  },
+  {
+    "ID": 12,
+    "localName": "Adjouaba",
+    "latinName": "Gluema ivorensis"
+  },
+  {
+    "ID": 13,
+    "localName": "Adjouaba à racines aériennes",
+    "latinName": "Dacryodes klaineana"
+  },
+  {
+    "ID": 14,
+    "localName": "Adonmoteu",
+    "latinName": "Santiriopsis trimera"
+  },
+  {
+    "ID": 15,
+    "localName": "Afambéou",
+    "latinName": "Anthonotha fragrans"
+  },
+  {
+    "ID": 16,
+    "localName": "Aguaya",
+    "latinName": "Dialium dinklagei"
+  },
+  {
+    "ID": 17,
+    "localName": "Aguia",
+    "latinName": "Pterocarpus mildbraedii"
+  },
+  {
+    "ID": 18,
+    "localName": "Aguia à grandes feuilles",
+    "latinName": "Omphalocarpum elatum"
+  },
+  {
+    "ID": 19,
+    "localName": "Ahianana",
+    "latinName": "Omphalocarpum ahia"
+  },
+  {
+    "ID": 20,
+    "localName": "Aiélé",
+    "latinName": "Stemonocoleus micranthus"
+  },
+  {
+    "ID": 21,
+    "localName": "Akaingo",
+    "latinName": "Canarium schweinfurthii"
+  },
+  {
+    "ID": 22,
+    "localName": "Akatio",
+    "latinName": "Craterispermum gracile"
+  },
+  {
+    "ID": 23,
+    "localName": "Akatiocoton",
+    "latinName": "Chrysophyllum africanum var. aubrevillei"
+  },
+  {
+    "ID": 24,
+    "localName": "Akeato",
+    "latinName": "Neoboivinella glomeruliflora"
+  },
+  {
+    "ID": 25,
+    "localName": "Akédé",
+    "latinName": "Cola heterophylla"
+  },
+  {
+    "ID": 26,
+    "localName": "Ako",
+    "latinName": "Antiaris welwitschii"
+  },
+  {
+    "ID": 27,
+    "localName": "Akodi Akédé",
+    "latinName": "Antiaris africana"
+  },
+  {
+    "ID": 28,
+    "localName": "Akofiamenda",
+    "latinName": "Pterygota bequaertii"
+  },
+  {
+    "ID": 29,
+    "localName": "Akohissi",
+    "latinName": "Cassia aubrevillei"
+  },
+  {
+    "ID": 30,
+    "localName": "Akoret",
+    "latinName": "Homalium aylmeri"
+  },
+  {
+    "ID": 31,
+    "localName": "Akosi",
+    "latinName": "Discoglypremna caloneura"
+  },
+  {
+    "ID": 32,
+    "localName": "Akossi",
+    "latinName": "Chrysoptvllurn Ie-testuanum"
+  },
+  {
+    "ID": 33,
+    "localName": "Akossika à grandes feuilles",
+    "latinName": "Chrysophyllttm sp"
+  },
+  {
+    "ID": 34,
+    "localName": "Akossika à petites feuilles",
+    "latinName": "Scottellia chevalieri"
+  },
+  {
+    "ID": 35,
+    "localName": "Akoua",
+    "latinName": "Scottellia coriacea"
+  },
+  {
+    "ID": 36,
+    "localName": "Akouapo",
+    "latinName": "Antrocaryon micrastey"
+  },
+  {
+    "ID": 37,
+    "localName": "Akuédao",
+    "latinName": "Sacoglottis gabonensis"
+  },
+  {
+    "ID": 38,
+    "localName": "Alambi",
+    "latinName": "Afrosersalisia afzelii"
+  },
+  {
+    "ID": 39,
+    "localName": "Alou",
+    "latinName": "Premna hispida"
+  },
+  {
+    "ID": 40,
+    "localName": "Kouaka",
+    "latinName": "Albizia glaberrima"
+  },
+  {
+    "ID": 41,
+    "localName": "Alui",
+    "latinName": "ErythrophIeum guineense"
+  },
+  {
+    "ID": 42,
+    "localName": "Amazakoué",
+    "latinName": "Guibourtia ehie"
+  },
+  {
+    "ID": 43,
+    "localName": "Amon",
+    "latinName": "Buchholzia coriacea"
+  },
+  {
+    "ID": 44,
+    "localName": "Anandio de l’Est",
+    "latinName": "Chrysophyllum subnudum"
+  },
+  {
+    "ID": 45,
+    "localName": "Anandio de l’Ouest",
+    "latinName": "ChrysophyIIum taiense"
+  },
+  {
+    "ID": 46,
+    "localName": "Andofiti",
+    "latinName": "Vitex micrantha"
+  },
+  {
+    "ID": 47,
+    "localName": "Aningueri",
+    "latinName": "Aningeria robusta"
+  },
+  {
+    "ID": 48,
+    "localName": "Aningueri argenté",
+    "latinName": "ChrysophylIum albidum"
+  },
+  {
+    "ID": 49,
+    "localName": "Aningueri rouge",
+    "latinName": "ChrysophyIlum perpulchrum"
+  },
+  {
+    "ID": 50,
+    "localName": "Aningueri rouge de Yapo",
+    "latinName": "ChrysophylIum beguei"
+  },
+  {
+    "ID": 51,
+    "localName": "Aniouki",
+    "latinName": "Pachypodanthium staudtii"
+  },
+  {
+    "ID": 52,
+    "localName": "Anomani",
+    "latinName": "Ficus anomani"
+  },
+  {
+    "ID": 53,
+    "localName": "Aoudogba",
+    "latinName": "Cuviera nigrescens"
+  },
+  {
+    "ID": 54,
+    "localName": "Aoukoua",
+    "latinName": "Panda oleosa"
+  },
+  {
+    "ID": 55,
+    "localName": "Aouolié",
+    "latinName": "Garcinia kola"
+  },
+  {
+    "ID": 56,
+    "localName": "Aoussou",
+    "latinName": "Cola attiensis"
+  },
+  {
+    "ID": 57,
+    "localName": "Apété",
+    "latinName": "Croton aubrevillei"
+  },
+  {
+    "ID": 58,
+    "localName": "Aplati",
+    "latinName": "Gaertnera paniculata"
+  },
+  {
+    "ID": 59,
+    "localName": "Aplati",
+    "latinName": "Grumilea venosa"
+  },
+  {
+    "ID": 60,
+    "localName": "Apobéaou",
+    "latinName": "Breviea leptosperma"
+  },
+  {
+    "ID": 61,
+    "localName": "Apomé",
+    "latinName": "Cynometya ananta"
+  },
+  {
+    "ID": 62,
+    "localName": "Aramon",
+    "latinName": "Parinari glabra"
+  },
+  {
+    "ID": 63,
+    "localName": "Aramon à feuilles dentées",
+    "latinName": "Parinari aubrevillei"
+  },
+  {
+    "ID": 64,
+    "localName": "Arélé",
+    "latinName": "Memecylon fleuryi"
+  },
+  {
+    "ID": 65,
+    "localName": "Arélébossa",
+    "latinName": "Memecylon cinnamomoides"
+  },
+  {
+    "ID": 66,
+    "localName": "Arélié",
+    "latinName": "Anisophyllea meniaudii"
+  },
+  {
+    "ID": 67,
+    "localName": "Aribanda",
+    "latinName": "Trichilia Ianata"
+  },
+  {
+    "ID": 68,
+    "localName": "Aribanda des montagnes",
+    "latinName": "Trichilia splendida"
+  },
+  {
+    "ID": 69,
+    "localName": "Aroro",
+    "latinName": "Scaphopetalum amoenum"
+  },
+  {
+    "ID": 70,
+    "localName": "Asaméla",
+    "latinName": "Afromosia elata"
+  },
+  {
+    "ID": 71,
+    "localName": "Asamoi aké",
+    "latinName": "Trichilia prieureana"
+  },
+  {
+    "ID": 72,
+    "localName": "Asan",
+    "latinName": "Celtis zenkeri"
+  },
+  {
+    "ID": 73,
+    "localName": "Atembré",
+    "latinName": "Newtonia aubrevillei"
+  },
+  {
+    "ID": 74,
+    "localName": "Atiokouo à grands fruits",
+    "latinName": "Beilschmiedia sp"
+  },
+  {
+    "ID": 75,
+    "localName": "Atiokouo",
+    "latinName": "Beitschmiedia mannii"
+  },
+  {
+    "ID": 76,
+    "localName": "Attia",
+    "latinName": "Coula edulis"
+  },
+  {
+    "ID": 77,
+    "localName": "Avodiré",
+    "latinName": "Turraeanthus africanus"
+  },
+  {
+    "ID": 78,
+    "localName": "Azobé",
+    "latinName": "Lophira alata = L. procera"
+  },
+  {
+    "ID": 79,
+    "localName": "Azodau",
+    "latinName": "Afzelia bella var. gracilior"
+  },
+  {
+    "ID": 80,
+    "localName": "Ba",
+    "latinName": "Celtis mildbraedii"
+  },
+  {
+    "ID": 81,
+    "localName": "Badi",
+    "latinName": "Nauclea diderrichii"
+  },
+  {
+    "ID": 82,
+    "localName": "Badi des marais",
+    "latinName": "Nauclea xanthoxylon"
+  },
+  {
+    "ID": 83,
+    "localName": "Bâgbâ (Gbagba)",
+    "latinName": "Octoknema borealis"
+  },
+  {
+    "ID": 84,
+    "localName": "Bagba",
+    "latinName": "Dichapetatum guineense"
+  },
+  {
+    "ID": 85,
+    "localName": "Bahé",
+    "latinName": "Fagara macroPhylta"
+  },
+  {
+    "ID": 86,
+    "localName": "Bahia",
+    "latinName": "Mitragyna ciliata"
+  },
+  {
+    "ID": 87,
+    "localName": "Baimbrou",
+    "latinName": "Diospyros canalicutata"
+  },
+  {
+    "ID": 88,
+    "localName": "Baingou",
+    "latinName": "Harrisonia abyssinica"
+  },
+  {
+    "ID": 89,
+    "localName": "Bala",
+    "latinName": "Chidlowia sanguinea"
+  },
+  {
+    "ID": 90,
+    "localName": "Balié",
+    "latinName": "Newbouldia laevis"
+  },
+  {
+    "ID": 91,
+    "localName": "Banaye",
+    "latinName": "Trichilia heudelotii"
+  },
+  {
+    "ID": 92,
+    "localName": "Bangbaye",
+    "latinName": "AIbizia adianthifolia"
+  },
+  {
+    "ID": 93,
+    "localName": "Baoué",
+    "latinName": "Enantia polycarpa"
+  },
+  {
+    "ID": 94,
+    "localName": "Baouéfou",
+    "latinName": "Polyalthia oliveri"
+  },
+  {
+    "ID": 95,
+    "localName": "Baouéfou à grandes feuilles",
+    "latinName": "Brieya fasciculata"
+  },
+  {
+    "ID": 96,
+    "localName": "Bapé",
+    "latinName": "Isomacrolobium vignei"
+  },
+  {
+    "ID": 97,
+    "localName": "Baza",
+    "latinName": "Brieya fasciculata"
+  },
+  {
+    "ID": 98,
+    "localName": "Bébi",
+    "latinName": "Blighia unijugata"
+  },
+  {
+    "ID": 99,
+    "localName": "Béchiéta",
+    "latinName": "Balanites wilsoniana"
+  },
+  {
+    "ID": 100,
+    "localName": "Bété",
+    "latinName": "Mansonia altissima"
+  },
+  {
+    "ID": 101,
+    "localName": "Beu",
+    "latinName": "Symphonia globulifera"
+  },
+  {
+    "ID": 102,
+    "localName": "Bléblendou",
+    "latinName": "Treculia africana"
+  },
+  {
+    "ID": 103,
+    "localName": "Bleu",
+    "latinName": "Carpolobia lutea"
+  },
+  {
+    "ID": 104,
+    "localName": "Bi",
+    "latinName": "Sterculia oblonga"
+  },
+  {
+    "ID": 105,
+    "localName": "Bit",
+    "latinName": "Beilschmiedia bitehi"
+  },
+  {
+    "ID": 106,
+    "localName": "Blékouré",
+    "latinName": "Pseudospondias microcarpa"
+  },
+  {
+    "ID": 107,
+    "localName": "Blénodiro",
+    "latinName": "Mannia simarubopsis"
+  },
+  {
+    "ID": 108,
+    "localName": "Bo",
+    "latinName": "Cuvieya acutifolia"
+  },
+  {
+    "ID": 109,
+    "localName": "Boa",
+    "latinName": "Chrysophyllum pruniforme"
+  },
+  {
+    "ID": 110,
+    "localName": "Boamamia",
+    "latinName": "Neotemonniera clitandrifolia"
+  },
+  {
+    "ID": 111,
+    "localName": "Boblofou",
+    "latinName": "Mimusops warneckei"
+  },
+  {
+    "ID": 112,
+    "localName": "Boborou",
+    "latinName": "Irvingia gabonensis"
+  },
+  {
+    "ID": 113,
+    "localName": "Bodioa",
+    "latinName": "Anopyxis klaineana"
+  },
+  {
+    "ID": 114,
+    "localName": "Bodo",
+    "latinName": "Detayium senegalense"
+  },
+  {
+    "ID": 115,
+    "localName": "Bogbiné",
+    "latinName": "Gardenia imperialis"
+  },
+  {
+    "ID": 116,
+    "localName": "Bolo",
+    "latinName": "Cuviera bolo"
+  },
+  {
+    "ID": 117,
+    "localName": "Bombi",
+    "latinName": "Hirtella butayei"
+  },
+  {
+    "ID": 118,
+    "localName": "Bon",
+    "latinName": "Cordia platythyrsa"
+  },
+  {
+    "ID": 119,
+    "localName": "Bona",
+    "latinName": "Cordia senegalensis"
+  },
+  {
+    "ID": 120,
+    "localName": "Borikio",
+    "latinName": "Uapaca esculenta"
+  },
+  {
+    "ID": 121,
+    "localName": "Bossé",
+    "latinName": "Guarea cedrata"
+  },
+  {
+    "ID": 122,
+    "localName": "Boto",
+    "latinName": "Swartzia fistuloïdes"
+  },
+  {
+    "ID": 123,
+    "localName": "Boué",
+    "latinName": "Lecaniodiscus cupanioïdes"
+  },
+  {
+    "ID": 124,
+    "localName": "Bouémon",
+    "latinName": "Cylicodiscus gabunensis"
+  },
+  {
+    "ID": 125,
+    "localName": "Mboul",
+    "latinName": "Celtis integrifolia"
+  },
+  {
+    "ID": 126,
+    "localName": "Boulé Barkélé",
+    "latinName": "Fagara leprieurii"
+  },
+  {
+    "ID": 127,
+    "localName": "Boya",
+    "latinName": "Placodiscus boya"
+  },
+  {
+    "ID": 128,
+    "localName": "Brobro",
+    "latinName": "Anthocleista nobilis"
+  },
+  {
+    "ID": 129,
+    "localName": "Broutou",
+    "latinName": "Didelotia unifoliolata"
+  },
+  {
+    "ID": 130,
+    "localName": "Caféier",
+    "latinName": "Coffea liberica"
+  },
+  {
+    "ID": 131,
+    "localName": "Chien",
+    "latinName": "Afrosersalisia chevalieri"
+  },
+  {
+    "ID": 132,
+    "localName": "Cocoti",
+    "latinName": "Sapium aubrevillei"
+  },
+  {
+    "ID": 133,
+    "localName": "Cocotier",
+    "latinName": "Cocos nucifera"
+  },
+  {
+    "ID": 134,
+    "localName": "Colatier",
+    "latinName": "Cola niitida"
+  },
+  {
+    "ID": 135,
+    "localName": "Colatier (faux)",
+    "latinName": "Cola acuminata"
+  },
+  {
+    "ID": 136,
+    "localName": "Copalier de Guinée",
+    "latinName": "Guibourtia copallifera"
+  },
+  {
+    "ID": 137,
+    "localName": "Dabé",
+    "latinName": "Erythroxylum mannii"
+  },
+  {
+    "ID": 138,
+    "localName": "Dabéma",
+    "latinName": "Piptadeniastrum africanum"
+  },
+  {
+    "ID": 139,
+    "localName": "Dagbé",
+    "latinName": "Soyauxia grandifolia"
+  },
+  {
+    "ID": 140,
+    "localName": "Dantoué",
+    "latinName": "Oldfieldia africana"
+  },
+  {
+    "ID": 141,
+    "localName": "Dao",
+    "latinName": "Trichoscypha arborea"
+  },
+  {
+    "ID": 142,
+    "localName": "Daokou",
+    "latinName": "Bosqueia angolensis"
+  },
+  {
+    "ID": 143,
+    "localName": "Daokro",
+    "latinName": "Trichoscypha yapoensis"
+  },
+  {
+    "ID": 144,
+    "localName": "Déchavi",
+    "latinName": "Rauwolfia vomitoria"
+  },
+  {
+    "ID": 145,
+    "localName": "Dédé",
+    "latinName": "Ficus exasperata"
+  },
+  {
+    "ID": 146,
+    "localName": "Dédébroguissé",
+    "latinName": "Lindackeria dentata"
+  },
+  {
+    "ID": 147,
+    "localName": "Démouain",
+    "latinName": "Hunteria eburnea"
+  },
+  {
+    "ID": 148,
+    "localName": "Démouain à gros fruits",
+    "latinName": "Picralima nitida"
+  },
+  {
+    "ID": 149,
+    "localName": "Diango",
+    "latinName": "Ficus goliath"
+  },
+  {
+    "ID": 150,
+    "localName": "Diangoblé",
+    "latinName": "Ficus dialonensis"
+  },
+  {
+    "ID": 151,
+    "localName": "Dibalé",
+    "latinName": "Ficus thonningii"
+  },
+  {
+    "ID": 152,
+    "localName": "Dibétou",
+    "latinName": "Lovoa trichilioides"
+  },
+  {
+    "ID": 153,
+    "localName": "Difou",
+    "latinName": "Morus mesozygia"
+  },
+  {
+    "ID": 154,
+    "localName": "Djilika",
+    "latinName": "Spondianthus Preussii"
+  },
+  {
+    "ID": 155,
+    "localName": "Djimbo",
+    "latinName": "Mammea africana"
+  },
+  {
+    "ID": 156,
+    "localName": "Dobotou",
+    "latinName": "Crudia gabonensis"
+  },
+  {
+    "ID": 157,
+    "localName": "Docla",
+    "latinName": "Homalium aubrevillei"
+  },
+  {
+    "ID": 158,
+    "localName": "Dolié",
+    "latinName": "Caloncoba brevipes"
+  },
+  {
+    "ID": 159,
+    "localName": "Dologaha",
+    "latinName": "Millettia zechiana"
+  },
+  {
+    "ID": 160,
+    "localName": "Doloko",
+    "latinName": "Cola chlamydantha"
+  },
+  {
+    "ID": 161,
+    "localName": "Dona",
+    "latinName": "Carapa procera"
+  },
+  {
+    "ID": 162,
+    "localName": "Donkoro",
+    "latinName": "Ficus congensis"
+  },
+  {
+    "ID": 163,
+    "localName": "Doumbourou",
+    "latinName": "Ficus mucuso"
+  },
+  {
+    "ID": 164,
+    "localName": "Dzézé",
+    "latinName": "Teclea verdoorniana"
+  },
+  {
+    "ID": 165,
+    "localName": "Effeu",
+    "latinName": "Hannoa klaineana"
+  },
+  {
+    "ID": 166,
+    "localName": "Efi",
+    "latinName": "Pleiocarpa mutica"
+  },
+  {
+    "ID": 167,
+    "localName": "Eho",
+    "latinName": "Ricinodendron heudelotii"
+  },
+  {
+    "ID": 168,
+    "localName": "Ehoué",
+    "latinName": "Rinorea longicuspis"
+  },
+  {
+    "ID": 169,
+    "localName": "Ehoué à petites feuilles",
+    "latinName": "Rinorea kibbiensis"
+  },
+  {
+    "ID": 170,
+    "localName": "Ehoué à feuilles de houx",
+    "latinName": "Rinorea ilicifolia"
+  },
+  {
+    "ID": 171,
+    "localName": "Elo",
+    "latinName": "Xylopia quintasii"
+  },
+  {
+    "ID": 172,
+    "localName": "Elo pubescent",
+    "latinName": "Xylopiastrum villosum"
+  },
+  {
+    "ID": 173,
+    "localName": "Elo à petites feuilles",
+    "latinName": "Xylopia acutiflora"
+  },
+  {
+    "ID": 174,
+    "localName": "Elouévo",
+    "latinName": "Dracaena arborea"
+  },
+  {
+    "ID": 175,
+    "localName": "Emien",
+    "latinName": "Alstonia congensis"
+  },
+  {
+    "ID": 176,
+    "localName": "Eséhésé",
+    "latinName": "TetrapIeura tetraptera"
+  },
+  {
+    "ID": 177,
+    "localName": "Eséhésé à grandes feuilles",
+    "latinName": "TetrapIeura chevalieri"
+  },
+  {
+    "ID": 178,
+    "localName": "Etimoé",
+    "latinName": "Copaifera salikounda"
+  },
+  {
+    "ID": 179,
+    "localName": "Etti",
+    "latinName": "Antidesma laciniatum"
+  },
+  {
+    "ID": 180,
+    "localName": "Fafo",
+    "latinName": "Croton zambesicus"
+  },
+  {
+    "ID": 181,
+    "localName": "Fara",
+    "latinName": "Stereospermum acuminatissimum"
+  },
+  {
+    "ID": 182,
+    "localName": "Faro",
+    "latinName": "Daniellia thurifera"
+  },
+  {
+    "ID": 183,
+    "localName": "Fehr",
+    "latinName": "Stereospermum kunthianum"
+  },
+  {
+    "ID": 184,
+    "localName": "Fikifiki",
+    "latinName": "Cassia fikifiki"
+  },
+  {
+    "ID": 185,
+    "localName": "Findia",
+    "latinName": "Ouratea squamosa"
+  },
+  {
+    "ID": 186,
+    "localName": "Fondé",
+    "latinName": "Xylotia staudtii"
+  },
+  {
+    "ID": 187,
+    "localName": "Fondé à petites feuilles",
+    "latinName": "Xylopia elliotii"
+  },
+  {
+    "ID": 188,
+    "localName": "Fondé des marais",
+    "latinName": "Xylopia rubescens"
+  },
+  {
+    "ID": 189,
+    "localName": "Fondé des rivières",
+    "latinName": "Xylopia parviflora"
+  },
+  {
+    "ID": 190,
+    "localName": "Fou",
+    "latinName": "Manilkara lacera"
+  },
+  {
+    "ID": 191,
+    "localName": "Foumbo",
+    "latinName": "Mimusops kummel"
+  },
+  {
+    "ID": 192,
+    "localName": "Fraké",
+    "latinName": "Terminalia superba"
+  },
+  {
+    "ID": 193,
+    "localName": "Framiré",
+    "latinName": "Terminalia ivorensis"
+  },
+  {
+    "ID": 194,
+    "localName": "Fromager",
+    "latinName": "Ceiba Pentandra"
+  },
+  {
+    "ID": 195,
+    "localName": "Géorgie",
+    "latinName": "Eriocoelum pungens"
+  },
+  {
+    "ID": 196,
+    "localName": "Gaigai",
+    "latinName": "Napoleona leonensis"
+  },
+  {
+    "ID": 197,
+    "localName": "Gaoué",
+    "latinName": "Cota buntingii"
+  },
+  {
+    "ID": 198,
+    "localName": "Gaouo",
+    "latinName": "Corynanthe pachyceras"
+  },
+  {
+    "ID": 199,
+    "localName": "Gbagba",
+    "latinName": "Octoknenta borealis"
+  },
+  {
+    "ID": 200,
+    "localName": "Gomongain",
+    "latinName": "Craterispermum taurinum"
+  },
+  {
+    "ID": 201,
+    "localName": "Gondé",
+    "latinName": "Hymenocardia heudelotii"
+  },
+  {
+    "ID": 202,
+    "localName": "Gorli",
+    "latinName": "Caloncoba echinata"
+  },
+  {
+    "ID": 203,
+    "localName": "Grenien",
+    "latinName": "Araliopsis tabouensis"
+  },
+  {
+    "ID": 204,
+    "localName": "Gro",
+    "latinName": "Cola reticulata"
+  },
+  {
+    "ID": 205,
+    "localName": "Grogoli",
+    "latinName": "Aningeria altissima"
+  },
+  {
+    "ID": 206,
+    "localName": "Groubé",
+    "latinName": "Chrysobalanus ellipticus"
+  },
+  {
+    "ID": 207,
+    "localName": "Guépizou",
+    "latinName": "Calpocalyx aubrevillei"
+  },
+  {
+    "ID": 208,
+    "localName": "Guessiguié Ako",
+    "latinName": "Syzygium rowlandii"
+  },
+  {
+    "ID": 209,
+    "localName": "Guézou",
+    "latinName": "Casearia dinklagei"
+  },
+  {
+    "ID": 210,
+    "localName": "Guilinti",
+    "latinName": "Acioa scabrifolia"
+  },
+  {
+    "ID": 211,
+    "localName": "Haratou",
+    "latinName": "Crudia senegalensis"
+  },
+  {
+    "ID": 212,
+    "localName": "Haratou des Lagunes",
+    "latinName": "Crudia klainei"
+  },
+  {
+    "ID": 213,
+    "localName": "Hauto",
+    "latinName": "Amanoa bracteosa"
+  },
+  {
+    "ID": 214,
+    "localName": "Hié",
+    "latinName": "Elaeophorbia grandifolia"
+  },
+  {
+    "ID": 215,
+    "localName": "Hiotou",
+    "latinName": "Cassipourea hiotou"
+  },
+  {
+    "ID": 216,
+    "localName": "Iatandza",
+    "latinName": "Albizia ferruginea"
+  },
+  {
+    "ID": 217,
+    "localName": "Iali",
+    "latinName": "Vangueriopsis vanguerioides"
+  },
+  {
+    "ID": 218,
+    "localName": "Iolo",
+    "latinName": "Oricia suaveolens"
+  },
+  {
+    "ID": 219,
+    "localName": "Iolo pubère",
+    "latinName": "Diphasia klaineana Pierre"
+  },
+  {
+    "ID": 220,
+    "localName": "Iroko",
+    "latinName": "Chlorophora regia"
+  },
+  {
+    "ID": 221,
+    "localName": "Iroko",
+    "latinName": "ChIorophora excelsa"
+  },
+  {
+    "ID": 222,
+    "localName": "Kahibéhi",
+    "latinName": "Drypetes Pellegrini"
+  },
+  {
+    "ID": 223,
+    "localName": "Kaingué",
+    "latinName": "Fagara rubescens"
+  },
+  {
+    "ID": 224,
+    "localName": "Kainkain",
+    "latinName": "Aporrhiza urophyIIa"
+  },
+  {
+    "ID": 225,
+    "localName": "Kâkâ à grands fruits",
+    "latinName": "Blighia weltvitschii"
+  },
+  {
+    "ID": 226,
+    "localName": "Kâkâ du Banco",
+    "latinName": "Blighia welwitschii var. bancoensis"
+  },
+  {
+    "ID": 227,
+    "localName": "Kaké",
+    "latinName": "Diospyros kamerunensis"
+  },
+  {
+    "ID": 228,
+    "localName": "Kakoua",
+    "latinName": "Cola cariccœfolia"
+  },
+  {
+    "ID": 229,
+    "localName": "Kalama",
+    "latinName": "Anogeissus leiocarpus var. schimperi"
+  },
+  {
+    "ID": 230,
+    "localName": "Kamaïa biésua",
+    "latinName": "Dictyandra arborescens"
+  },
+  {
+    "ID": 231,
+    "localName": "Kantou",
+    "latinName": "Kantou gueyeensis"
+  },
+  {
+    "ID": 232,
+    "localName": "Kaoué",
+    "latinName": "Kaoue stapfiana"
+  },
+  {
+    "ID": 233,
+    "localName": "Kékélé",
+    "latinName": "Holoptelea grandis"
+  },
+  {
+    "ID": 234,
+    "localName": "Kékémi",
+    "latinName": "Diospyros kekemi"
+  },
+  {
+    "ID": 235,
+    "localName": "Kérémon",
+    "latinName": "Majidea fosteri"
+  },
+  {
+    "ID": 236,
+    "localName": "Kétou",
+    "latinName": "Newtonia duparquetiana"
+  },
+  {
+    "ID": 237,
+    "localName": "Kiokio",
+    "latinName": "Glyphaea brevis"
+  },
+  {
+    "ID": 238,
+    "localName": "Kioro",
+    "latinName": "Parinari chrysophyIIa"
+  },
+  {
+    "ID": 239,
+    "localName": "Kléklé",
+    "latinName": "Aubrevillea platycarpa"
+  },
+  {
+    "ID": 240,
+    "localName": "Koacagnibaka",
+    "latinName": "Leptaulus daphnoïdes"
+  },
+  {
+    "ID": 241,
+    "localName": "Koanandio",
+    "latinName": "ChrysophyIIum giganteum"
+  },
+  {
+    "ID": 242,
+    "localName": "Koaramon",
+    "latinName": "Parinari robusta"
+  },
+  {
+    "ID": 243,
+    "localName": "Koasan",
+    "latinName": "Celtis durandii"
+  },
+  {
+    "ID": 244,
+    "localName": "Koazodau",
+    "latinName": "Afzelia bracteata"
+  },
+  {
+    "ID": 245,
+    "localName": "Kobahia",
+    "latinName": "Christiana africana"
+  },
+  {
+    "ID": 246,
+    "localName": "Kobona",
+    "latinName": "Cordia vignei"
+  },
+  {
+    "ID": 247,
+    "localName": "Kodabéma",
+    "latinName": "Aubrevillea kerstingii"
+  },
+  {
+    "ID": 248,
+    "localName": "Kofina",
+    "latinName": "Dialium guineense"
+  },
+  {
+    "ID": 249,
+    "localName": "Kofo",
+    "latinName": "Bersania abyssinica subsp paullinioides"
+  },
+  {
+    "ID": 250,
+    "localName": "Koframiré",
+    "latinName": "Pteleopsis hylodendron"
+  },
+  {
+    "ID": 251,
+    "localName": "Kohaingué",
+    "latinName": "Keayodendron bridelioides"
+  },
+  {
+    "ID": 252,
+    "localName": "Kokissa",
+    "latinName": "Syzygium guineense"
+  },
+  {
+    "ID": 253,
+    "localName": "Kokoi",
+    "latinName": "Microdesmis puberula"
+  },
+  {
+    "ID": 254,
+    "localName": "Kolohonfé",
+    "latinName": "Celtis philippensis"
+  },
+  {
+    "ID": 255,
+    "localName": "Komboui",
+    "latinName": "Ehretia trachyphyIIa"
+  },
+  {
+    "ID": 256,
+    "localName": "Komelebga",
+    "latinName": "Berlinia tomentella"
+  },
+  {
+    "ID": 257,
+    "localName": "Komiligbé",
+    "latinName": "Memecylon lateriflorum"
+  },
+  {
+    "ID": 258,
+    "localName": "Komonbélé",
+    "latinName": "Cola laurifolia"
+  },
+  {
+    "ID": 259,
+    "localName": "Konangbri",
+    "latinName": "Trichitia megalantha"
+  },
+  {
+    "ID": 260,
+    "localName": "Kondroti",
+    "latinName": "Bombax brevicuspe"
+  },
+  {
+    "ID": 261,
+    "localName": "Kopokoi",
+    "latinName": "Chaetacme madagascariensis"
+  },
+  {
+    "ID": 262,
+    "localName": "Koro",
+    "latinName": "Vitex cuneata"
+  },
+  {
+    "ID": 263,
+    "localName": "Kosipo",
+    "latinName": "Entandrophragma candollei"
+  },
+  {
+    "ID": 264,
+    "localName": "Kota",
+    "latinName": "Cathormion altissimum = arthrosamanea altissima"
+  },
+  {
+    "ID": 265,
+    "localName": "Koto",
+    "latinName": "Pterygota macrocarpa"
+  },
+  {
+    "ID": 266,
+    "localName": "Kotibé",
+    "latinName": "Nesogordonia Papaverifera"
+  },
+  {
+    "ID": 267,
+    "localName": "Kouaia",
+    "latinName": "Morinda lucida"
+  },
+  {
+    "ID": 268,
+    "localName": "Kodoumbourou",
+    "latinName": "Ficus variifolia"
+  },
+  {
+    "ID": 269,
+    "localName": "Koué Koué",
+    "latinName": "Hymenostegia afzelii"
+  },
+  {
+    "ID": 270,
+    "localName": "Kouero",
+    "latinName": "Ongokea gore"
+  },
+  {
+    "ID": 271,
+    "localName": "Kounderon",
+    "latinName": "Albizia coriaria"
+  },
+  {
+    "ID": 272,
+    "localName": "Kouosafina",
+    "latinName": "Vernonia colorata"
+  },
+  {
+    "ID": 273,
+    "localName": "Krahain",
+    "latinName": "Drypetes chevalieri"
+  },
+  {
+    "ID": 274,
+    "localName": "Kroma",
+    "latinName": "Klainedoxa gabonensis"
+  },
+  {
+    "ID": 275,
+    "localName": "Kropio",
+    "latinName": "Dialium aubrevillei"
+  },
+  {
+    "ID": 276,
+    "localName": "Lami",
+    "latinName": "Pentadesma butyracea"
+  },
+  {
+    "ID": 277,
+    "localName": "Larme",
+    "latinName": "Haplormosia monophylla"
+  },
+  {
+    "ID": 278,
+    "localName": "Lati",
+    "latinName": "Amphimas pterocarpoides"
+  },
+  {
+    "ID": 279,
+    "localName": "Lauso",
+    "latinName": "Ehretia cymosa"
+  },
+  {
+    "ID": 280,
+    "localName": "Mensonge",
+    "latinName": "Phyllanthus discoïdeus"
+  },
+  {
+    "ID": 281,
+    "localName": "Lingué",
+    "latinName": "Afzelia africana"
+  },
+  {
+    "ID": 282,
+    "localName": "Lo",
+    "latinName": "Parkia bicolor"
+  },
+  {
+    "ID": 283,
+    "localName": "Lohonfé",
+    "latinName": "Celtis adolfi frederici"
+  },
+  {
+    "ID": 284,
+    "localName": "Lokoma",
+    "latinName": "Smeathmannia Pubescens"
+  },
+  {
+    "ID": 285,
+    "localName": "Loloti",
+    "latinName": "Lannea welwitschii"
+  },
+  {
+    "ID": 286,
+    "localName": "Loloti des savanes",
+    "latinName": "Lannea nigritana"
+  },
+  {
+    "ID": 287,
+    "localName": "Lonkati",
+    "latinName": "Discoclaoxylon hexandrum"
+  },
+  {
+    "ID": 288,
+    "localName": "Losso",
+    "latinName": "Desplatsia chrysochlamys"
+  },
+  {
+    "ID": 289,
+    "localName": "Lotofa",
+    "latinName": "Sterculia rhinopetala"
+  },
+  {
+    "ID": 290,
+    "localName": "Makoré",
+    "latinName": "Dumoria hecketii"
+  },
+  {
+    "ID": 291,
+    "localName": "Manasati",
+    "latinName": "Maesopsis eminii"
+  },
+  {
+    "ID": 292,
+    "localName": "Matanou",
+    "latinName": "Manilkara weltvitschii"
+  },
+  {
+    "ID": 293,
+    "localName": "M’Braoua",
+    "latinName": "Protomegabaria stapfiana"
+  },
+  {
+    "ID": 294,
+    "localName": "Mébébi",
+    "latinName": "Ouratea schoenleiniana"
+  },
+  {
+    "ID": 295,
+    "localName": "Méblo",
+    "latinName": "Brachystegia leonensis"
+  },
+  {
+    "ID": 296,
+    "localName": "Medjilagba",
+    "latinName": "Gilbertiodendron limba et G. bilineatum"
+  },
+  {
+    "ID": 297,
+    "localName": "Médjilagba à grands fruits",
+    "latinName": "Gilbertiodendron splendidum"
+  },
+  {
+    "ID": 298,
+    "localName": "Meko",
+    "latinName": "Hildegardia barteri"
+  },
+  {
+    "ID": 299,
+    "localName": "Meléfoufou",
+    "latinName": "Homalium Ie-testui"
+  },
+  {
+    "ID": 300,
+    "localName": "Mélégba",
+    "latinName": "Berlinia confusa"
+  },
+  {
+    "ID": 301,
+    "localName": "Mélégba des galeries",
+    "latinName": "Berlinia grandiflora"
+  },
+  {
+    "ID": 302,
+    "localName": "Metéatakain",
+    "latinName": "Rothmannia urcelliformis"
+  },
+  {
+    "ID": 303,
+    "localName": "Meuli",
+    "latinName": "Anthostema aubryanum"
+  },
+  {
+    "ID": 304,
+    "localName": "Mieta’ndabo",
+    "latinName": "Trichilia martineaui"
+  },
+  {
+    "ID": 305,
+    "localName": "Miligbé",
+    "latinName": "Mentecyton Polyanthemos"
+  },
+  {
+    "ID": 306,
+    "localName": "Mingki",
+    "latinName": "Fagara parvifoliola"
+  },
+  {
+    "ID": 307,
+    "localName": "Monbin",
+    "latinName": "Spondias mombin"
+  },
+  {
+    "ID": 308,
+    "localName": "Motti",
+    "latinName": "Ficus vogelii"
+  },
+  {
+    "ID": 309,
+    "localName": "Mottiodji",
+    "latinName": "Aphania senegalensis var. silvatica"
+  },
+  {
+    "ID": 310,
+    "localName": "Mottikoro",
+    "latinName": "Drypetes afzelii"
+  },
+  {
+    "ID": 311,
+    "localName": "Mottikoro",
+    "latinName": "Drypetes aylmeri"
+  },
+  {
+    "ID": 312,
+    "localName": "Mottikoro",
+    "latinName": "Drypetes Principum"
+  },
+  {
+    "ID": 313,
+    "localName": "Moué",
+    "latinName": "Monodora myristica"
+  },
+  {
+    "ID": 314,
+    "localName": "Moussangoué",
+    "latinName": "Scytopetalum tieghemii"
+  },
+  {
+    "ID": 315,
+    "localName": "Movingui",
+    "latinName": "Distentonanthus benthamianus"
+  },
+  {
+    "ID": 316,
+    "localName": "Mutigbanaye",
+    "latinName": "Guarea thompsonii"
+  },
+  {
+    "ID": 317,
+    "localName": "Nialatou",
+    "latinName": "Cassipourea nialatou"
+  },
+  {
+    "ID": 318,
+    "localName": "Niamiébaka",
+    "latinName": "Diospyros monbuttensis"
+  },
+  {
+    "ID": 319,
+    "localName": "Niangon",
+    "latinName": "Tarrietia utilis"
+  },
+  {
+    "ID": 320,
+    "localName": "Niéouétou",
+    "latinName": "Hoftlestigma klaineanum"
+  },
+  {
+    "ID": 321,
+    "localName": "Ngavi du bush littoral",
+    "latinName": "Maba ferrea = Diospyros ferrea"
+  },
+  {
+    "ID": 322,
+    "localName": "Ngavi à petites feuilles",
+    "latinName": "Diospyros (heudelotii)"
+  },
+  {
+    "ID": 323,
+    "localName": "Ngavi à gros fruits",
+    "latinName": "Diospyros mannii"
+  },
+  {
+    "ID": 324,
+    "localName": "Ngavi",
+    "latinName": "Diospyros ivorensis"
+  },
+  {
+    "ID": 325,
+    "localName": "N’guessou",
+    "latinName": "Cassipourea congoensis"
+  },
+  {
+    "ID": 326,
+    "localName": "N’ja",
+    "latinName": "Conocarpus erectus"
+  },
+  {
+    "ID": 327,
+    "localName": "Noliba",
+    "latinName": "Pachystela brevipes"
+  },
+  {
+    "ID": 328,
+    "localName": "Nomotcho",
+    "latinName": "Bussea occidentalis"
+  },
+  {
+    "ID": 329,
+    "localName": "Nonko",
+    "latinName": "Ficus eriobotryoides"
+  },
+  {
+    "ID": 330,
+    "localName": "N’Taba",
+    "latinName": "Cola cordifolia"
+  },
+  {
+    "ID": 331,
+    "localName": "Oba",
+    "latinName": "Bombax buonopozense"
+  },
+  {
+    "ID": 332,
+    "localName": "Oba Oba",
+    "latinName": "Trichoscypha Oba"
+  },
+  {
+    "ID": 333,
+    "localName": "Ohoué à grandes feuilles",
+    "latinName": "Grossera Vignei"
+  },
+  {
+    "ID": 334,
+    "localName": "Okoubaka",
+    "latinName": "Okoubaka aubrevillei"
+  },
+  {
+    "ID": 335,
+    "localName": "Okoué",
+    "latinName": "Baphia polygalacea"
+  },
+  {
+    "ID": 336,
+    "localName": "Okoué",
+    "latinName": "Baphia nitida"
+  },
+  {
+    "ID": 337,
+    "localName": "Oropoupati",
+    "latinName": "Garcinia polyantha"
+  },
+  {
+    "ID": 338,
+    "localName": "Otoumon",
+    "latinName": "Duboscia viridiflora"
+  },
+  {
+    "ID": 339,
+    "localName": "Ouaka",
+    "latinName": "Gaertnera cooperi"
+  },
+  {
+    "ID": 340,
+    "localName": "Oualélé",
+    "latinName": "Pycnanthus angolensis = P kombo"
+  },
+  {
+    "ID": 341,
+    "localName": "Oualio",
+    "latinName": "Schrebeya arborea"
+  },
+  {
+    "ID": 342,
+    "localName": "Ouanda",
+    "latinName": "Morinda geminata"
+  },
+  {
+    "ID": 343,
+    "localName": "Ouangran",
+    "latinName": "Allophyllus africanus"
+  },
+  {
+    "ID": 344,
+    "localName": "Ouara (grandiose)",
+    "latinName": "Cola gigantea var. glabrescens"
+  },
+  {
+    "ID": 345,
+    "localName": "Ouara (Petit)",
+    "latinName": "Cola lateritia var. maclaudi"
+  },
+  {
+    "ID": 346,
+    "localName": "Onhon",
+    "latinName": "Euadenia trifoliata"
+  },
+  {
+    "ID": 347,
+    "localName": "Ouindo",
+    "latinName": "Lasiodiscus mildbraedii"
+  },
+  {
+    "ID": 348,
+    "localName": "Ouo",
+    "latinName": "Fagara zanthoxyloides"
+  },
+  {
+    "ID": 349,
+    "localName": "Ouochi",
+    "latinName": "Albizia zygia"
+  },
+  {
+    "ID": 350,
+    "localName": "Ouolobo",
+    "latinName": "Ophiobotrys zenkeri"
+  },
+  {
+    "ID": 351,
+    "localName": "Ouologpaoué",
+    "latinName": "Tetrorchidium didymostemon"
+  },
+  {
+    "ID": 352,
+    "localName": "Ouombé",
+    "latinName": "Harungana madagascariensis"
+  },
+  {
+    "ID": 353,
+    "localName": "Ouombéhiapi",
+    "latinName": "Vismia guineensis"
+  },
+  {
+    "ID": 354,
+    "localName": "Ouokissé",
+    "latinName": "Pterocarpus santalinoides"
+  },
+  {
+    "ID": 355,
+    "localName": "Ouokouti",
+    "latinName": "Aidia genipaefIora"
+  },
+  {
+    "ID": 356,
+    "localName": "Ouoré ouoré",
+    "latinName": "Cleistanthus polystachyus"
+  },
+  {
+    "ID": 357,
+    "localName": "Ouossou palié à fleurs mauves",
+    "latinName": "Erythrina mildbraedii"
+  },
+  {
+    "ID": 358,
+    "localName": "Ouossoupalié à fleurs rouges",
+    "latinName": "Erythrina vogelii"
+  },
+  {
+    "ID": 359,
+    "localName": "Ouotéra",
+    "latinName": "AIlanblackia floribunda"
+  },
+  {
+    "ID": 360,
+    "localName": "Ouroviti",
+    "latinName": "Isolona campanulata"
+  },
+  {
+    "ID": 361,
+    "localName": "Ovala",
+    "latinName": "Pentaclethra macrophyIIa"
+  },
+  {
+    "ID": 362,
+    "localName": "Oyia (= Ohia)",
+    "latinName": "Mareya micrantha"
+  },
+  {
+    "ID": 363,
+    "localName": "Palétuvier",
+    "latinName": "Rhizophora racemosa"
+  },
+  {
+    "ID": 364,
+    "localName": "Palmier à huile",
+    "latinName": "Elaeis guineensis"
+  },
+  {
+    "ID": 365,
+    "localName": "Pandanus",
+    "latinName": "Pandanus candelabrton"
+  },
+  {
+    "ID": 366,
+    "localName": "Parasolier",
+    "latinName": "Musanga cecyoPioides"
+  },
+  {
+    "ID": 367,
+    "localName": "Patapara",
+    "latinName": "Hymenostegia aubrevillei"
+  },
+  {
+    "ID": 368,
+    "localName": "Pépéangrouafou",
+    "latinName": "Ficus bongouanouensis"
+  },
+  {
+    "ID": 369,
+    "localName": "Pétépré",
+    "latinName": "Calpocalyx brevibracteatus"
+  },
+  {
+    "ID": 370,
+    "localName": "Piakambo",
+    "latinName": "Maba soubreana = Diospyros soubreana"
+  },
+  {
+    "ID": 371,
+    "localName": "Pianléoua",
+    "latinName": "Lychnodiscus dananensis"
+  },
+  {
+    "ID": 372,
+    "localName": "Piatou",
+    "latinName": "Drypetes aubrevillei"
+  },
+  {
+    "ID": 373,
+    "localName": "Piebga",
+    "latinName": "Conopharyngia durissima et C jollyana"
+  },
+  {
+    "ID": 374,
+    "localName": "Piegba (Façon Piegba)",
+    "latinName": "Voacanga africana"
+  },
+  {
+    "ID": 375,
+    "localName": "Pipigbalé",
+    "latinName": "Parkia filicoïdea"
+  },
+  {
+    "ID": 376,
+    "localName": "Pitiaguia",
+    "latinName": "Omphalocavpum pachysteloïdes"
+  },
+  {
+    "ID": 377,
+    "localName": "Pitimoué",
+    "latinName": "Monodora tenuifolia"
+  },
+  {
+    "ID": 378,
+    "localName": "Pitiréré",
+    "latinName": "Anthonotha sassandraensis"
+  },
+  {
+    "ID": 379,
+    "localName": "Pocouli",
+    "latinName": "Berlinia occidentalis"
+  },
+  {
+    "ID": 380,
+    "localName": "Poé",
+    "latinName": "Strombosia glaucescens var. lucida"
+  },
+  {
+    "ID": 381,
+    "localName": "Pokoi",
+    "latinName": "Afraegle paniculata"
+  },
+  {
+    "ID": 382,
+    "localName": "Poivrier de Guinée",
+    "latinName": "XyloPia aethioPica"
+  },
+  {
+    "ID": 383,
+    "localName": "Popo",
+    "latinName": "Ficus umbellata"
+  },
+  {
+    "ID": 384,
+    "localName": "Poro",
+    "latinName": "Ficus capensis"
+  },
+  {
+    "ID": 385,
+    "localName": "Poré poré",
+    "latinName": "Sterculia tragacantha"
+  },
+  {
+    "ID": 386,
+    "localName": "Poto poto",
+    "latinName": "Strephonema pseudocola"
+  },
+  {
+    "ID": 387,
+    "localName": "Poto",
+    "latinName": "Dichaetanthera africana"
+  },
+  {
+    "ID": 388,
+    "localName": "Pouo",
+    "latinName": "Funtumia latifolia"
+  },
+  {
+    "ID": 389,
+    "localName": "Poupouia",
+    "latinName": "Vernonia conferta"
+  },
+  {
+    "ID": 390,
+    "localName": "Prahanendi",
+    "latinName": "Aeglopsis chevalieri"
+  },
+  {
+    "ID": 391,
+    "localName": "Pri",
+    "latinName": "Funtumia elastica"
+  },
+  {
+    "ID": 392,
+    "localName": "Raphia",
+    "latinName": "Raphia sp. pl."
+  },
+  {
+    "ID": 393,
+    "localName": "Réré des Savanes",
+    "latinName": "Anthonotha crasifolia"
+  },
+  {
+    "ID": 394,
+    "localName": "Réré à longs fruits",
+    "latinName": "Anthonotha macyophyIIa"
+  },
+  {
+    "ID": 395,
+    "localName": "Rikio des rivières",
+    "latinName": "Uapaca heudelotii"
+  },
+  {
+    "ID": 396,
+    "localName": "Rikio des marais",
+    "latinName": "Uapaca paludosa"
+  },
+  {
+    "ID": 397,
+    "localName": "Rikio",
+    "latinName": "Uapaca guineensis"
+  },
+  {
+    "ID": 398,
+    "localName": "Rikio des montagnes",
+    "latinName": "Uapaca chevalieri"
+  },
+  {
+    "ID": 399,
+    "localName": "Ringhalla",
+    "latinName": "Cussonia bancoensis"
+  },
+  {
+    "ID": 400,
+    "localName": "Rocouyer",
+    "latinName": "Bixa orellana"
+  },
+  {
+    "ID": 401,
+    "localName": "Rônier",
+    "latinName": "Borassus flabellifer var. œthiopum"
+  },
+  {
+    "ID": 402,
+    "localName": "Sagué",
+    "latinName": "PlagiosiPhon emarginatus"
+  },
+  {
+    "ID": 403,
+    "localName": "Samalomo",
+    "latinName": "Rutacée indéterminée"
+  },
+  {
+    "ID": 404,
+    "localName": "Samba",
+    "latinName": "TripIochiton scleroxylon"
+  },
+  {
+    "ID": 405,
+    "localName": "Sampou",
+    "latinName": "Drypetes gilgiana"
+  },
+  {
+    "ID": 406,
+    "localName": "Samokon",
+    "latinName": "Lonchocarpus seyiceus"
+  },
+  {
+    "ID": 407,
+    "localName": "Sanar",
+    "latinName": "Avicennia nitida"
+  },
+  {
+    "ID": 408,
+    "localName": "Sandan",
+    "latinName": "Daniellia oliveri"
+  },
+  {
+    "ID": 409,
+    "localName": "Sanza Minika",
+    "latinName": "Diospyros sanza-minika"
+  },
+  {
+    "ID": 410,
+    "localName": "Sanza minika à grandes feuilles",
+    "latinName": "Diospyros gabunensis"
+  },
+  {
+    "ID": 411,
+    "localName": "Sarnana",
+    "latinName": "Maesa lanceolata"
+  },
+  {
+    "ID": 412,
+    "localName": "Sibo",
+    "latinName": "Nauclea Pobeguinii"
+  },
+  {
+    "ID": 413,
+    "localName": "Siélébé",
+    "latinName": "Hexalobus crispiflorus"
+  },
+  {
+    "ID": 414,
+    "localName": "Sinedia",
+    "latinName": "Cassia sieberiana"
+  },
+  {
+    "ID": 415,
+    "localName": "Sipo",
+    "latinName": "Entandrophragma utile"
+  },
+  {
+    "ID": 416,
+    "localName": "Sisina de galeries",
+    "latinName": "Manilkara multinervis"
+  },
+  {
+    "ID": 417,
+    "localName": "Sisina de forêt",
+    "latinName": "Manilkara obovata"
+  },
+  {
+    "ID": 418,
+    "localName": "Sobou",
+    "latinName": "Cleistopholis Patens"
+  },
+  {
+    "ID": 419,
+    "localName": "Sohoué",
+    "latinName": "Holarrhena africana"
+  },
+  {
+    "ID": 420,
+    "localName": "Sointa",
+    "latinName": "Millettia lane-poolei"
+  },
+  {
+    "ID": 421,
+    "localName": "Sokouy",
+    "latinName": "Ficus ovata"
+  },
+  {
+    "ID": 422,
+    "localName": "Somon",
+    "latinName": "Uapacasomon"
+  },
+  {
+    "ID": 423,
+    "localName": "Sauce",
+    "latinName": "Ficus dicranostyla"
+  },
+  {
+    "ID": 424,
+    "localName": "Sougué des rivières",
+    "latinName": "Parinari congensis"
+  },
+  {
+    "ID": 425,
+    "localName": "Sougué à grandes feuilles",
+    "latinName": "Parinari excelsa"
+  },
+  {
+    "ID": 426,
+    "localName": "Sougué",
+    "latinName": "Parinari hosltii"
+  },
+  {
+    "ID": 427,
+    "localName": "Sounsou",
+    "latinName": "Diospyyos mespiIiformis"
+  },
+  {
+    "ID": 428,
+    "localName": "Ta",
+    "latinName": "Samanea dinklagei"
+  },
+  {
+    "ID": 429,
+    "localName": "Tali",
+    "latinName": "Erythrophleum ivorense"
+  },
+  {
+    "ID": 430,
+    "localName": "Tamba",
+    "latinName": "Detarium microcarpum"
+  },
+  {
+    "ID": 431,
+    "localName": "Tassa",
+    "latinName": "Gelonium ivorense"
+  },
+  {
+    "ID": 432,
+    "localName": "Tchiébuessain",
+    "latinName": "Xylia evansii"
+  },
+  {
+    "ID": 433,
+    "localName": "Tchikué",
+    "latinName": "Bridelia atroviridis"
+  },
+  {
+    "ID": 434,
+    "localName": "Tchikué",
+    "latinName": "Bridelia stenocarpa"
+  },
+  {
+    "ID": 435,
+    "localName": "Tchikuébi",
+    "latinName": "Bridelia aubrevillei"
+  },
+  {
+    "ID": 436,
+    "localName": "Tekbé",
+    "latinName": "Canthium tekbe"
+  },
+  {
+    "ID": 437,
+    "localName": "Tekbé à grandes feuilles",
+    "latinName": "Canthium subcordatum"
+  },
+  {
+    "ID": 438,
+    "localName": "Tiama",
+    "latinName": "Entandrophragma angolense"
+  },
+  {
+    "ID": 439,
+    "localName": "Timéba",
+    "latinName": "Erythrina senegalensis"
+  },
+  {
+    "ID": 440,
+    "localName": "Tiokoué",
+    "latinName": "Garcinia afzelii"
+  },
+  {
+    "ID": 441,
+    "localName": "Tivi",
+    "latinName": "Rothmannia hispida"
+  },
+  {
+    "ID": 442,
+    "localName": "Tofé",
+    "latinName": "Macaranga sp. pl."
+  },
+  {
+    "ID": 443,
+    "localName": "Tombo",
+    "latinName": "Kigelia africana var. elliptica"
+  },
+  {
+    "ID": 444,
+    "localName": "Tomboro",
+    "latinName": "Markhamia tomentosa"
+  },
+  {
+    "ID": 445,
+    "localName": "Toounto",
+    "latinName": "Oneoba brachyanthera"
+  },
+  {
+    "ID": 446,
+    "localName": "Toubaouaté",
+    "latinName": "Toubaouate brevipanictdata"
+  },
+  {
+    "ID": 447,
+    "localName": "Toumidio",
+    "latinName": "Malacantha alnifolia"
+  },
+  {
+    "ID": 448,
+    "localName": "Touo",
+    "latinName": "Hymenodictyon floribundum"
+  },
+  {
+    "ID": 449,
+    "localName": "Tuibesso",
+    "latinName": "Baphia pubescens"
+  },
+  {
+    "ID": 450,
+    "localName": "Tuibesso",
+    "latinName": "Baphia bancoensis"
+  },
+  {
+    "ID": 451,
+    "localName": "Tulipier du Gabon",
+    "latinName": "Spathodea campanulata"
+  },
+  {
+    "ID": 452,
+    "localName": "Vaa",
+    "latinName": "Gilbertiodendron taïense"
+  },
+  {
+    "ID": 453,
+    "localName": "Vianpou",
+    "latinName": "Craibia atlantica"
+  },
+  {
+    "ID": 454,
+    "localName": "Viéda",
+    "latinName": "Coelocaryon oxycarpum"
+  },
+  {
+    "ID": 455,
+    "localName": "Vigo",
+    "latinName": "AIchornea cordifolia"
+  },
+  {
+    "ID": 456,
+    "localName": "Vinedo",
+    "latinName": "Androsiphonia adenostegia"
+  },
+  {
+    "ID": 457,
+    "localName": "Viviro",
+    "latinName": "Dracaena mannii"
+  },
+  {
+    "ID": 458,
+    "localName": "Grand Wounian",
+    "latinName": "Myyianthus arboreus"
+  },
+  {
+    "ID": 459,
+    "localName": "Wounian des rivières",
+    "latinName": "Myrianthus serratus"
+  },
+  {
+    "ID": 460,
+    "localName": "Wounian",
+    "latinName": "Myrianthus libericus"
+  },
+  {
+    "ID": 461,
+    "localName": "Wouniogpa",
+    "latinName": "Maesobotxya barteri var. sparsiflora"
+  },
+  {
+    "ID": 462,
+    "localName": "Zaïzou",
+    "latinName": "Gymnostemon zaizou"
+  },
+  {
+    "ID": 463,
+    "localName": "Zankorésou",
+    "latinName": "Aubregrinia taiensis"
+  },
+  {
+    "ID": 464,
+    "localName": "Ziopou",
+    "latinName": "Tessmannia baikieaoides"
+  },
+  {
+    "ID": 465,
+    "localName": "Zogré",
+    "latinName": "Drypetes klainei"
+  }
+]

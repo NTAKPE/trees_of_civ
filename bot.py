@@ -12,9 +12,9 @@ with open ('csvjson.json', 'r') as file :
 
 #Generate text for tweet
 def get_spec(spec):
-    return "Arbre 🌳 #{}/465 \nL'arbre du jour est le {}. \nSon appelation latine est {}. \
-        \nLikez, retweetez, ajoutez photos & co en commentaires!\
-        \n#deforestation #eauxetforets #forets #JePlanteMonArbreCI #reboisement #BringBackOurTrees #CIV225".format(spec['ID'],
+    return "🌳 Arbre #{}/465\nL'arbre du jour est le {} (nom latin :{}). \
+        \nSource: Atlas Des Bois De Côte d'Ivoire Tome 1\
+        \n#BringBackOurTrees #BoisDeCIV #CIV225".format(spec['ID'],
         spec['localName'], spec['latinName'])
 
 def main():

@@ -11,10 +11,10 @@ def main():
     api = create_api()
 
     #Set the loop parameters
-    INTERVAL_TWO = 60*60*12
+    INTERVAL_TWO = 60*60*3
 
     while True:
-        INTERVAL_ONE = 60*60*6
+        INTERVAL_ONE = 60*60*4
         quoteList = quotes()
         for quote in quoteList :
             api.update_status(quote)

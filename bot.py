@@ -48,4 +48,4 @@ def main(keywords):
     time.sleep(INTERVAL)
 
 if __name__ == "__main__":
-    main(["GPT-3", "#blockchain", "#machinelearning", "#deeplearning"])
+    main(["#CIV225","Pulcherie Gbalet", "#civElections", "#civElections2020"])

@@ -41,7 +41,7 @@ def main(keywords):
     api = create_api()
     tweets_listener = FavRetweetListener(api)
     stream = tweepy.Stream(api.auth, tweets_listener)
-    stream.filter(track=keywords, languages=["en"])
+    stream.filter(track=keywords, languages=["fr", "en"])
 
     #Wait 15 min before new loop through timeline
     INTERVAL = 60*60/4
